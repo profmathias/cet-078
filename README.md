@@ -25,6 +25,9 @@ $ git pull
 - **Aula 3:**
     - [Classes em Java -Parte 3 - Implementando e Testando uma Classe](https://www.icloud.com/iclouddrive/0AEI5bZKNqpFkp3dMEutl7UPg#Parte_3_-_Implementando_e_Testando_uma_Classe)
     - **Exercício:** Implementação no BlueJ de Classes representando formas geométricas e seus respectivos testes. [Código base e enunciado aqui.](https://github.com/profmathias/cet-078/tree/master/Aula3-Primeira-Classe-OO)
+- **Aula 4:**
+    - [Regras de Escopo em OO e Construtores](https://www.icloud.com/iclouddrive/0_5Y7Li5pGrExBAqHRFKbL0RQ#Parte_4_-_Regras_de_Escopo_em_OO_e_Construtores)
+    - **Exercício:** Implemente os construtores das classes das formas geométricas que você implementou. [Código Base e enunciado aqui](https://github.com/profmathias/cet-078/tree/master/Aula4-Construtores)
 
 ## IDEs, Ferramentas e Softwares
 
