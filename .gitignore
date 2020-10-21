@@ -3,4 +3,4 @@ a.out
 .DS_Store
 cmake-build-debug/
 doc
-.class
+*.class

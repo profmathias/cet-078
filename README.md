@@ -28,6 +28,10 @@ $ git pull
 - **Aula 4:**
     - [Regras de Escopo em OO e Construtores](https://www.icloud.com/iclouddrive/0_5Y7Li5pGrExBAqHRFKbL0RQ#Parte_4_-_Regras_de_Escopo_em_OO_e_Construtores)
     - **Exercício:** Implemente os construtores das classes das formas geométricas que você implementou. [Código Base e enunciado aqui](https://github.com/profmathias/cet-078/tree/master/Aula4-Construtores)
+- **Aula 5:**
+    - [Generalização e Herança](https://www.icloud.com/iclouddrive/0u-Tuyx-lOlwhy-tPhbQHaAnA)
+    - **Exercício:** Expanda o projeto de jogo que vimos na aula com o intuito de representar através de classes o máximo
+    de elementos existentes em um jogo. Use herança ao identificar classes que possuem características em comum. Implemente o método renderizar delas e também da classe Cenário. [Código base aqui](https://github.com/profmathias/cet-078/tree/master/Aula5-Heranca)
 
 ## IDEs, Ferramentas e Softwares
 
