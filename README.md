@@ -32,6 +32,9 @@ $ git pull
     - [Generalização e Herança](https://www.icloud.com/iclouddrive/0u-Tuyx-lOlwhy-tPhbQHaAnA)
     - **Exercício:** Expanda o projeto de jogo que vimos na aula com o intuito de representar através de classes o máximo
     de elementos existentes em um jogo. Use herança ao identificar classes que possuem características em comum. Implemente o método renderizar delas e também da classe Cenário. [Código base aqui](https://github.com/profmathias/cet-078/tree/master/Aula5-Heranca)
+- **Aula 6:**
+    - [Sobrecarga e Sobrescrita de Métodos](https://www.icloud.com/iclouddrive/0orpUuYW4isWh1qfKBFgRdKPA)
+    - ** Exercício** Identifique no projeto métodos que necessitem de sobrecarga ou sobrescrita. Crie novos recursos para o nosso jogo, seja criativo e identifique novos elementos e defina as classes que os representem. [Código base e detalhes do exercício aqui.](https://github.com/profmathias/cet-078/tree/master/Aula6-Sobrecarga-e-sobrescrita-de-metodos)
 
 ## IDEs, Ferramentas e Softwares
 
