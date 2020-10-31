@@ -1,4 +1,4 @@
-public class Retangulo {
+public class Retangulo extends Forma {
         private float base;
         private float altura;
 
@@ -8,10 +8,6 @@ public class Retangulo {
 
         public float calcularPerimetro() {
                 return 2*base + 2*altura;
-        }
-
-        public void imprimir() {
-                System.out.println("A Altura é " + altura + ", a base é " + base);
         }
 
         public void setBaseEAltura(float b, float a) {

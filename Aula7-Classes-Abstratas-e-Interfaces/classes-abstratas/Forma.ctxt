@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Forma
+comment1.params=
+comment1.target=float\ calcularArea()
+comment2.params=
+comment2.target=float\ calcularPerimetro()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=void\ imprimir()
+numComments=5

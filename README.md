@@ -35,6 +35,9 @@ $ git pull
 - **Aula 6:**
     - [Sobrecarga e Sobrescrita de Métodos](https://www.icloud.com/iclouddrive/0orpUuYW4isWh1qfKBFgRdKPA)
     - ** Exercício** Identifique no projeto métodos que necessitem de sobrecarga ou sobrescrita. Crie novos recursos para o nosso jogo, seja criativo e identifique novos elementos e defina as classes que os representem. [Código base e detalhes do exercício aqui.](https://github.com/profmathias/cet-078/tree/master/Aula6-Sobrecarga-e-sobrescrita-de-metodos)
+- **Aula 7:**
+    - [Classes Abstrata e Interfaces](https://www.icloud.com/iclouddrive/03OvAW04xpYLdX-jCJskfpI-g#Parte_7_-_Interface_e_Classes_Abstratas)
+    - **Exercício** verifique o exercício no diretório do código, basicamente você vai analisar os programas fetios até aqui e criar classes abstratas e interfaces onde for necessário. Se tiverem dúvidas tomem nota (estruture-as bem) e tragam as dúvidas para a próxima aula.
 
 ## IDEs, Ferramentas e Softwares
 
