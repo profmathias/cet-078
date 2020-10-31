@@ -39,6 +39,7 @@ $ git pull
     - [Classes Abstrata e Interfaces](https://www.icloud.com/iclouddrive/03OvAW04xpYLdX-jCJskfpI-g#Parte_7_-_Interface_e_Classes_Abstratas)
     - **Exercício** verifique o exercício no diretório do código, basicamente você vai analisar os programas fetios até aqui e criar classes abstratas e interfaces onde for necessário. Se tiverem dúvidas tomem nota (estruture-as bem) e tragam as dúvidas para a próxima aula.
 
+
 ## IDEs, Ferramentas e Softwares
 
 ### Java
