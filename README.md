@@ -17,8 +17,9 @@ $ git pull
 ```
 
 ## Slides
-
-- [**Aula 1:** Revisão de LPII com códigos](https://github.com/profmathias/cet-078/tree/master/aula1-exemplos)
+- **Java Básico**  [Variáveis, Estruturas de Controle, Vetores e Matrizes](https://www.icloud.com/iclouddrive/0_X3PB-3zCoTArSbEFWR7aCGQ)
+- **Aula 1:**
+    - [Revisão de LPII com códigos](https://github.com/profmathias/cet-078/tree/master/aula1-exemplos)
 - **Aula 2:**
     - [Introdução à Programação e Análise Orientada a Objetos](https://www.icloud.com/iclouddrive/0XOC0zx153RF7Tj9tN5dPQKDg)
     - [Classes, Atributos e Métodos](https://www.icloud.com/iclouddrive/0MPZU1w60AGnxzn6zcQIsDd1A)
@@ -37,7 +38,14 @@ $ git pull
     - ** Exercício** Identifique no projeto métodos que necessitem de sobrecarga ou sobrescrita. Crie novos recursos para o nosso jogo, seja criativo e identifique novos elementos e defina as classes que os representem. [Código base e detalhes do exercício aqui.](https://github.com/profmathias/cet-078/tree/master/Aula6-Sobrecarga-e-sobrescrita-de-metodos)
 - **Aula 7:**
     - [Classes Abstrata e Interfaces](https://www.icloud.com/iclouddrive/03OvAW04xpYLdX-jCJskfpI-g#Parte_7_-_Interface_e_Classes_Abstratas)
-    - **Exercício** verifique o exercício no diretório do código, basicamente você vai analisar os programas fetios até aqui e criar classes abstratas e interfaces onde for necessário. Se tiverem dúvidas tomem nota (estruture-as bem) e tragam as dúvidas para a próxima aula.
+    - **Exercício** verifique o exercício no diretório do código, basicamente você vai analisar os programas fetios até aqui e criar classes abstratas e interfaces onde for necessário. Se tiverem dúvidas tomem nota (estruture-as bem) e tragam as dúvidas para a próxima aula. [Exemplos vistos em sala de aula aqui.](https://github.com/profmathias/cet-078/tree/master/Aula7-Classes-Abstratas-e-Interfaces)
+- **Aula 8:**
+    - [Modificadores e Métodos de Acesso](https://www.icloud.com/iclouddrive/0RU9As8_A2an5m1ubNT0Qv4pg)
+    - **Exercício** Expanda o projeto iniciado em sala de aula, verifique os modificadores de acesso das classes, determine quais devem ser private, public
+    ou protected e implemente os métodos de acesso (getters e setters). [Código base aqui.](https://github.com/profmathias/cet-078/tree/master/Aula8-Modificadores-de-Acesso-Getter-e-Setters)
+- **Aula 9:**
+    - [Polimorfismo](https://www.icloud.com/iclouddrive/0UNnWkuZbDqO5dCYU1qOWPcdA#Parte_9_-_Polimorfismo)
+    - **Exercício:** Identifique novas classes e funcionalidades que possam ser implementadas no exemplo visto em sala de aula. Utilize o código visto como base para a implementação. [Código Base aqui.](https://github.com/profmathias/cet-078/tree/master/Aula9-Polimorfismo)
 
 
 ## IDEs, Ferramentas e Softwares
