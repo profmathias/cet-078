@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Emprestimo
+comment1.params=
+comment1.target=Cliente\ getClient()
+comment2.params=cliente
+comment2.target=void\ setClient(Cliente)
+comment3.params=
+comment3.target=Livro\ getLivro()
+comment4.params=livro
+comment4.target=void\ setLivro(Livro)
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Livro
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=id
+comment2.target=void\ setId(int)
+comment3.params=
+comment3.target=java.lang.String\ getTitulo()
+comment4.params=titulo
+comment4.target=void\ setTitulo(java.lang.String)
+numComments=5
