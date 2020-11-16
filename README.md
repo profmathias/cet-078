@@ -46,6 +46,10 @@ $ git pull
 - **Aula 9:**
     - [Polimorfismo](https://www.icloud.com/iclouddrive/0UNnWkuZbDqO5dCYU1qOWPcdA#Parte_9_-_Polimorfismo)
     - **Exercício:** Identifique novas classes e funcionalidades que possam ser implementadas no exemplo visto em sala de aula. Utilize o código visto como base para a implementação. [Código Base aqui.](https://github.com/profmathias/cet-078/tree/master/Aula9-Polimorfismo)
+- **Aula 10:**
+    - [Método Main e Pacotes em Java](https://www.icloud.com/iclouddrive/08b8_s8h6zy760M6MV6__IkYA)
+    - **Exercício:** Adicione o método main a todos os exercícios que implementou até agora. Instale o JDK, compile os fontes com o `javac` e execute-os
+    com o comando `java` como exemplificado nos slides, utilize o Atom, o VS Code ou o IntelliJ. [Código Base aqui.](https://github.com/profmathias/cet-078/tree/master/Aula10-Pacotes-Java-Metodo-e-Classe-Main)
 
 
 ## IDEs, Ferramentas e Softwares
