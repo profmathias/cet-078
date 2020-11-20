@@ -50,6 +50,12 @@ $ git pull
     - [Método Main e Pacotes em Java](https://www.icloud.com/iclouddrive/08b8_s8h6zy760M6MV6__IkYA)
     - **Exercício:** Adicione o método main a todos os exercícios que implementou até agora. Instale o JDK, compile os fontes com o `javac` e execute-os
     com o comando `java` como exemplificado nos slides, utilize o Atom, o VS Code ou o IntelliJ. [Código Base aqui.](https://github.com/profmathias/cet-078/tree/master/Aula10-Pacotes-Java-Metodo-e-Classe-Main)
+- **Aula 11:**
+    - [Bibliotecas Básicas: Leitura e Escrita em Arquivos](https://www.icloud.com/iclouddrive/0KErg-WXZ_R53ZPDAextr9egQ)
+    - [Códigos com exemplos aqui.](https://github.com/profmathias/cet-078/tree/master/Aula11-Bibliotecas-Basicas-Arquivos)
+- **Aula 12:**
+    - [Bibliotecas Básicas: Java Collections - ArrayList, HashMap e HashSet](https://www.icloud.com/iclouddrive/0V16f3iBS1SH-EmxJnAhbwd-g)
+    - **Exercício:** Expandir e organizar o exemplo visto em sala de aula, organizando o código em classes específicas ao invés de uma única grande classe. [Instruções detalhadas e código base aqui...](https://github.com/profmathias/cet-078/tree/master/Aula12-Bibliotecas-Basicas-Collections)
 
 
 ## IDEs, Ferramentas e Softwares
