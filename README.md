@@ -21,9 +21,11 @@ $ git pull
 - **Aula 1:**
     - [Introdução à Programação e Análise Orientada a Objetos](https://www.icloud.com/iclouddrive/0XOC0zx153RF7Tj9tN5dPQKDg)
     - [Classes, Atributos e Métodos](https://www.icloud.com/iclouddrive/0MPZU1w60AGnxzn6zcQIsDd1A)
+    - [Gravação da Aula](https://drive.google.com/file/d/1wRV0nXduQaTVRAZ77oQu86VeH46Jh65z/view?usp=sharing)
 - **Aula 2:**
     - [Revisão de LPII com códigos](https://github.com/profmathias/cet-078/tree/master/Aula1-Revisao-Rapida-De-LPII-C-Com-OO)
     - [Classes em Java - Implementando utilizando BlueJ](https://www.icloud.com/iclouddrive/0AEI5bZKNqpFkp3dMEutl7UPg#Parte_3_-_Implementando_e_Testando_uma_Classe)
+    - [Gravação da Aula](https://drive.google.com/file/d/1QhoO1tSDdbUqE9miZpvrVSw_JesMx-xz/view?usp=sharing) 
     - **Exercício:** Implementação no BlueJ de Classes representando formas geométricas. [Código base e enunciado aqui.](https://github.com/profmathias/cet-078/tree/master/Aula3-Primeira-Classe-OO)
 
 ## IDEs, Ferramentas e Softwares
