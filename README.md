@@ -29,6 +29,7 @@ $ git pull
     - **Exercício:** Implementação no BlueJ de Classes representando formas geométricas. [Código base e enunciado aqui.](https://github.com/profmathias/cet-078/tree/master/Aula3-Primeira-Classe-OO)
 - **Aula 3:**
     - [Classes em Java -Parte 3 - Implementando e Testando uma Classe](https://www.icloud.com/iclouddrive/0AEI5bZKNqpFkp3dMEutl7UPg#Parte_3_-_Implementando_e_Testando_uma_Classe)
+    - [Gravação da Aula](https://drive.google.com/file/d/1CUF4G-7zp5wypG4l9SIzepeJLrXFnuWy/view?usp=sharing)
     - **Exercício:** Implementação no BlueJ de um Gerenciador de Formas. 
         - [Enunciado aqui.](https://www.icloud.com/iclouddrive/02xsMw4RTE9seyeOvYIIYglfw#exercicio-aula-3)
         - [Código Base aqui](https://github.com/profmathias/cet-078/tree/master/Aula3-Gerenciador-de-Formas)
