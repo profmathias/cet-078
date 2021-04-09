@@ -19,6 +19,15 @@ $ git pull
 ## Slides
 - **Java Básico**  [Variáveis, Estruturas de Controle, Vetores e Matrizes](https://www.icloud.com/iclouddrive/0_X3PB-3zCoTArSbEFWR7aCGQ)
 
+
+- **Aula 6:**
+    - [Relacionamento entre Classes e Herença](https://www.icloud.com/iclouddrive/0FyyHvu30defaPxrZUwfQlS9w)
+    - [Gravação da Aula](https://drive.google.com/file/d/1RixLU1g7k2vkiZG_D31lH03-OI377h8e/view)
+        - Por alguma razão os slides não sairam na gravação, nesta gravação temos somente o áudio.
+    - Exercício: Em um jogo os personagens podem ser mosntros e heróis. Todos os personagens são 
+    "Objetos rederizáveis." ou seja podem acionar um método para que seja impresso na tela. Quantas classes
+    podemos identificar na descrição acima? Quais são os membros de classe (atributos e métodos) que podem
+    ser compartilhados entre as classes? Criar uma hierarquia de classes utilizando herança para implementar as classes identificadas.
 - **Aula 5:**
     - [Regras de Escopo e Construtores](https://www.icloud.com/iclouddrive/0S2BD03noem5UjGYomw2xkiYA#Escopo_e_Construtores)
     - [Gravação da Aula](https://drive.google.com/file/d/1czTqfBuvlyE9guRfw7BZhdih1uLhNzjx/view?usp=sharing)
