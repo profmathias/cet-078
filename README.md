@@ -19,7 +19,17 @@ $ git pull
 ## Slides
 - **Java Básico**  [Variáveis, Estruturas de Controle, Vetores e Matrizes](https://www.icloud.com/iclouddrive/0_X3PB-3zCoTArSbEFWR7aCGQ)
 
-
+- **Aula 7:**
+    - [Sobrecarga e Sobrescrita de Código](https://www.icloud.com/iclouddrive/0e9Hln2ZeRZPLx72zi0b9arqg#Sobrecarga_e_Sobrescrita)
+    - [Gravação da Aula](https://drive.google.com/file/d/1pj31CpbzxqMblBio3vvL69hk9S-aV4rE/view?usp=sharing)
+    - **Exercício:** Um jogo é composto por vários elementos, muitos deles renderizáveis, isso significa que o
+    o objeto é desenhado na tela, por exemplo, heróis, monstros, obstáculos, objetos decorativos, etc. Pensando
+    em um jogo, elenque as Classes que compoem um cenário. Crie uma classe base chamada Renderizavel que possui 
+    um método renderizar e imprime na tela os dados do objeto. A partir daí crie uma hierarquia de classes 
+    renderizavéis. Pense em múltiplos níveis de hierarquia, por exemplo, Renderizavel -> Personagem -> Heroi.
+    Crie no mínimo 8 classes referentes ao jogo e elementos renderizáveis, implemente-as. Pense nas ações
+    "métodos" que cada uma dessas classes terão e implemente-as também. Qualquer dúvida entrar em contato 
+    ou traga na próxima aula.
 - **Aula 6:**
     - [Relacionamento entre Classes e Herença](https://www.icloud.com/iclouddrive/0FyyHvu30defaPxrZUwfQlS9w)
     - [Gravação da Aula](https://drive.google.com/file/d/1RixLU1g7k2vkiZG_D31lH03-OI377h8e/view)
