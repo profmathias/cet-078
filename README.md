@@ -19,6 +19,12 @@ $ git pull
 ## Slides
 - **Java Básico**  [Variáveis, Estruturas de Controle, Vetores e Matrizes](https://www.icloud.com/iclouddrive/0_X3PB-3zCoTArSbEFWR7aCGQ)
 
+
+- **Aula 8:**
+    - Na aula oito discutimos soluções possíveis para o exercício do Jogo. Vimos com tratar as associações entre classes, identificamos
+    as Composições, Agregações e Generalizações (Herança). A partir de um código de um dos alunos, fomos discutindo soluções e
+    refatorando o código. Não houve aula teórica.
+
 - **Aula 7:**
     - [Sobrecarga e Sobrescrita de Código](https://www.icloud.com/iclouddrive/0e9Hln2ZeRZPLx72zi0b9arqg#Sobrecarga_e_Sobrescrita)
     - [Gravação da Aula](https://drive.google.com/file/d/1pj31CpbzxqMblBio3vvL69hk9S-aV4rE/view?usp=sharing)
