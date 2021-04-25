@@ -17,8 +17,19 @@ $ git pull
 ```
 
 ## Slides
-- **Java Básico**  [Variáveis, Estruturas de Controle, Vetores e Matrizes](https://www.icloud.com/iclouddrive/0_X3PB-3zCoTArSbEFWR7aCGQ)
+- **Java Básico**  
+    - [Variáveis, Estruturas de Controle, Vetores e Matrizes](https://www.icloud.com/iclouddrive/0W8dZtn9bJ7BRe5HBw0G92hNA#Interfaces_e_Classes_Abstratas)
 
+- **Aula 9:**
+    - [Classes Abstratas e Interfaces](https://www.icloud.com/iclouddrive/0_X3PB-3zCoTArSbEFWR7aCGQ)
+    - [Gravação da Aula](https://drive.google.com/file/d/1ek5rX-JM77A1cyCfca_wLyRFapfZ3ocY/view?usp=sharing)
+        - **Exercício:** Identifique nos exercícios anteriores possíveis classes abstratas e interfaces.
+        Implemente-as e crie classes derivadas (herança) que façam uso das Classes Abstratas ou implementem
+        as interfaces.
+- **Aula 8:**
+    - [Aula prática]() com resolução do exercício da Aula 7, com esclarecimento de dúvidas e explicações de
+    tópicos relevantes.
+    - **OBS:** Aulas práticas com exercícios não são gravadas. 
 - **Aula 7:**
     - [Sobrecarga e Sobrescrita de Código](https://www.icloud.com/iclouddrive/0e9Hln2ZeRZPLx72zi0b9arqg#Sobrecarga_e_Sobrescrita)
     - [Gravação da Aula](https://drive.google.com/file/d/1pj31CpbzxqMblBio3vvL69hk9S-aV4rE/view?usp=sharing)
