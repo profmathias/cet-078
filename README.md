@@ -26,10 +26,13 @@ $ git pull
         - **Exercício:** Identifique nos exercícios anteriores possíveis classes abstratas e interfaces.
         Implemente-as e crie classes derivadas (herança) que façam uso das Classes Abstratas ou implementem
         as interfaces.
+
 - **Aula 8:**
-    - [Aula prática]() com resolução do exercício da Aula 7, com esclarecimento de dúvidas e explicações de
-    tópicos relevantes.
+    - Na aula oito discutimos soluções possíveis para o exercício do Jogo. Vimos com tratar as associações entre classes, identificamos
+    as Composições, Agregações e Generalizações (Herança). A partir de um código de um dos alunos, fomos discutindo soluções e
+    refatorando o código. Não houve aula teórica. Esclarecimento de dúvidas e explicações de tópicos relevantes.
     - **OBS:** Aulas práticas com exercícios não são gravadas. 
+
 - **Aula 7:**
     - [Sobrecarga e Sobrescrita de Código](https://www.icloud.com/iclouddrive/0e9Hln2ZeRZPLx72zi0b9arqg#Sobrecarga_e_Sobrescrita)
     - [Gravação da Aula](https://drive.google.com/file/d/1pj31CpbzxqMblBio3vvL69hk9S-aV4rE/view?usp=sharing)
