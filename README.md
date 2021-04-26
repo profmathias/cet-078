@@ -18,10 +18,10 @@ $ git pull
 
 ## Slides
 - **Java Básico**  
-    - [Variáveis, Estruturas de Controle, Vetores e Matrizes](https://www.icloud.com/iclouddrive/0W8dZtn9bJ7BRe5HBw0G92hNA#Interfaces_e_Classes_Abstratas)
+    - [Variáveis, Estruturas de Controle, Vetores e Matrizes](https://www.icloud.com/iclouddrive/0_X3PB-3zCoTArSbEFWR7aCGQ)
 
 - **Aula 9:**
-    - [Classes Abstratas e Interfaces](https://www.icloud.com/iclouddrive/0_X3PB-3zCoTArSbEFWR7aCGQ)
+    - [Classes Abstratas e Interfaces](https://www.icloud.com/iclouddrive/0W8dZtn9bJ7BRe5HBw0G92hNA#Interfaces_e_Classes_Abstratas)
     - [Gravação da Aula](https://drive.google.com/file/d/1ek5rX-JM77A1cyCfca_wLyRFapfZ3ocY/view?usp=sharing)
         - **Exercício:** Identifique nos exercícios anteriores possíveis classes abstratas e interfaces.
         Implemente-as e crie classes derivadas (herança) que façam uso das Classes Abstratas ou implementem
