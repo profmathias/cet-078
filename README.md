@@ -19,10 +19,35 @@ $ git pull
 ## Slides
 - **Java Básico**  
     - [Variáveis, Estruturas de Controle, Vetores e Matrizes](https://www.icloud.com/iclouddrive/0_X3PB-3zCoTArSbEFWR7aCGQ)
+
+- **Proposta Genérica para o Projeto Final**
+    - Um comerciante quer criar um site para vendas online de seus produtos. Ele
+    deseja que o *CLIENTE* possa acessar o site navegar pelos *PRODUTO*s escolher
+    o que deseja comprar colocando-os em um *CARRINHO DE COMPRA*s. Os produtos são
+    divídos em duas categorias *PERESSIVEL*(eis), *MOBILIA*, *ELETRODOMESTICO*.
+    O cliente diz que essa distinção é importante pois o valor do frete para cada
+    um desses tipos segue um cálculo diferente. Ao final, o cliente chama uma
+    operação *finalizarCompra* no carrinho que calcula o total da compra, pergunta
+    a *FORMA DE PAGAMENTO*, que pode ser *CARTAO*, *PIX* ou *BOLETO*. Para cada
+    método existe um cálculo específico de uma taxa adicional a ser somada ao total
+    do carrinho. Ele diz também que é importante ter registrado as dimensões e o peso
+    de cada produto pois isso também influencia o cálculo do frete.
+    Após finalizada a compra uma série de notificações devem ser disparadas, e um
+    *NOTIFICADOR* deve enviar um e-mail para o cliente, para o fornecedor e para
+    o lojista. O comerciante enfatiza também que deseja ter um *CATALOGO DE FORNECEDORES*
+    onde ele possa catalogar os fornecedores e que categoria de produtos ele fornece.
     
+    - Implemente um programa em Java que atenda aos requisitos postos pelo comerciante.
+    - **OBS: Qualquer dúvida entrem em contato pelo Discord**
+
+- **Aula 11:**
+    - [Polimorfismo em Exemplos e o Método Main]() **Link dos slides em breve**
+    - [Gravação da Aula](https://drive.google.com/file/d/14Adlluvo6rLlUjVabxDNB0eHX3uHkC2S/view?usp=sharing)
+    - [Código Exemplo visto em aula](https://github.com/profmathias/cet-078/tree/master/Aula9-Polimorfismo)
+ 
 - **Aula 10:**
-    [Polimorfismo](https://www.icloud.com/iclouddrive/0KLIh-D9PAXrky26TyQKI1u8g#Polimorfismo)
-    [Gravação da Aula: Parte 1](https://drive.google.com/file/d/1jowwxXjvwlEa12wZNlenHob9HYrOZJg7/view?usp=sharing)
+    - [Polimorfismo](https://www.icloud.com/iclouddrive/0KLIh-D9PAXrky26TyQKI1u8g#Polimorfismo)
+    - [Gravação da Aula: Parte 1](https://drive.google.com/file/d/1jowwxXjvwlEa12wZNlenHob9HYrOZJg7/view?usp=sharing)
     
 - **Aula 9:**
     - [Classes Abstratas e Interfaces](httpsq://www.icloud.com/iclouddrive/0W8dZtn9bJ7BRe5HBw0G92hNA#Interfaces_e_Classes_Abstratas)
