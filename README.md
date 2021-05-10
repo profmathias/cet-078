@@ -42,6 +42,7 @@ $ git pull
 
 - **Aula 13: Projetos Java no IntelliJ e Visual Studio Code**
     - [Gravação da Aula](https://drive.google.com/file/d/1p2HgMStYvSYE-jmeEE3MIBabkQy_BZgJ/view?usp=sharing)
+    - [Código de Exemplo, Projeto com Maven](https://github.com/profmathias/cet-078/tree/master/maven-simples)
 - **Aula 12:**
     - [Pacotes e Métodos Estáticos](https://drive.google.com/file/d/13mUgM_WfGw42Lq8GM-JhMxDmrfF0OmRS/view?usp=sharing)
     - [Gravação da Aula](https://drive.google.com/file/d/1d82UeogKzkbXZWBoSoaM2D7Z2m8qhOmY/view?usp=sharing)    
