@@ -40,6 +40,11 @@ $ git pull
     - Implemente um programa em Java que atenda aos requisitos postos pelo comerciante.
     - **OBS: Qualquer dúvida entrem em contato pelo Discord**
 
+- **Aula 13: Projetos Java no IntelliJ e Visual Studio Code**
+    - [Gravação da Aula](https://drive.google.com/file/d/1p2HgMStYvSYE-jmeEE3MIBabkQy_BZgJ/view?usp=sharing)
+- **Aula 12:**
+    - [Pacotes e Métodos Estáticos](https://drive.google.com/file/d/13mUgM_WfGw42Lq8GM-JhMxDmrfF0OmRS/view?usp=sharing)
+    - [Gravação da Aula](https://drive.google.com/file/d/1d82UeogKzkbXZWBoSoaM2D7Z2m8qhOmY/view?usp=sharing)    
 - **Aula 11:**
     - [Polimorfismo em Exemplos e o Método Main]() **Link dos slides em breve**
     - [Gravação da Aula](https://drive.google.com/file/d/14Adlluvo6rLlUjVabxDNB0eHX3uHkC2S/view?usp=sharing)
