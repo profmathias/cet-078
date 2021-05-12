@@ -56,7 +56,7 @@ $ git pull
     Esse é o ponto de partida, o importante aqui é pensar e documentar (no README.md) 
     as suas ideias e criar uma base de código para iniciar.
 
-ATENÇÃO Ao final da aula vocês devem colocar os arquivos no repositório e será este o que vou analisar para planejar nosso próximo encontro, relacionando as dúvidas principais, os problemas de design e trazer conceitos que me pareceu faltar nas soluções. Por favor reajam a essa mensagem com um emoji, para que eu saiba quem já está ciente desta atividade.
+ATENÇÃO Ao final da aula vocês devem colocar os arquivos no repositório e será este o que vou analisar para planejar nosso próximo encontro, relacionando as dúvidas principais, os problemas de design e trazer conceitos que me pareceu faltar nas soluções. 
 - **Aula 13: Projetos Java no IntelliJ e Visual Studio Code**
     - [Gravação da Aula](https://drive.google.com/file/d/1p2HgMStYvSYE-jmeEE3MIBabkQy_BZgJ/view?usp=sharing)
     - [Código de Exemplo, Projeto com Maven](https://github.com/profmathias/cet-078/tree/master/maven-simples)
