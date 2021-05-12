@@ -39,7 +39,24 @@ $ git pull
     
     - Implemente um programa em Java que atenda aos requisitos postos pelo comerciante.
     - **OBS: Qualquer dúvida entrem em contato pelo Discord**
+    
+- **Aula 14: Bootstrap do Projeto Final
+    - Você pode criar o arquivo README.md direto no site do GitHub clicando em Novo 
+    Arquivo (New File) no diretório principal do seu repositório e pode editar lá 
+    também. Caso tenham muitas dificuldades, façam em um arquivo no seu computador 
+    disponibilize no final da aula.
+    - Vocês deverão relacionar pelo menos 10 classes, criar o código básico, arquivos 
+    e classe implementada ainda vazia. A i  deia aqui é criar a base para o inicio da 
+    programação, utilize VS Code ou IntelliJ. Escreva no README.md sobre suas decisões
+    sobre as classes em uma seção Decisões de Design.
+    -  Identifique e relacione as associações entre as classes identificadas, relações 
+    do tipo  "é um" (heranças) bem como relações do tipo "tem um" (Agregação - relações
+    mais fracas  e Composição - relações mais fortes... vejam os slides).
+    - Neste exercício não é necessário que tudo esteja perfeitamente correto. 
+    Esse é o ponto de partida, o importante aqui é pensar e documentar (no README.md) 
+    as suas ideias e criar uma base de código para iniciar.
 
+ATENÇÃO Ao final da aula vocês devem colocar os arquivos no repositório e será este o que vou analisar para planejar nosso próximo encontro, relacionando as dúvidas principais, os problemas de design e trazer conceitos que me pareceu faltar nas soluções. Por favor reajam a essa mensagem com um emoji, para que eu saiba quem já está ciente desta atividade.
 - **Aula 13: Projetos Java no IntelliJ e Visual Studio Code**
     - [Gravação da Aula](https://drive.google.com/file/d/1p2HgMStYvSYE-jmeEE3MIBabkQy_BZgJ/view?usp=sharing)
     - [Código de Exemplo, Projeto com Maven](https://github.com/profmathias/cet-078/tree/master/maven-simples)
