@@ -1,5 +1,6 @@
 package org.exemplo.sound;
 
+import org.exemplo.video.VideoFile;
 import java.util.ArrayList;
 
 

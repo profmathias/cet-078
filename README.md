@@ -40,7 +40,7 @@ $ git pull
     - Implemente um programa em Java que atenda aos requisitos postos pelo comerciante.
     - **OBS: Qualquer dúvida entrem em contato pelo Discord**
     
-- **Aula 14: Bootstrap do Projeto Final
+- **Aula 14:** Bootstrap do Projeto Final
     - Você pode criar o arquivo README.md direto no site do GitHub clicando em Novo 
     Arquivo (New File) no diretório principal do seu repositório e pode editar lá 
     também. Caso tenham muitas dificuldades, façam em um arquivo no seu computador 
