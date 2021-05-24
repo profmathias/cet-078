@@ -40,6 +40,10 @@ $ git pull
     - Implemente um programa em Java que atenda aos requisitos postos pelo comerciante.
     - **OBS: Qualquer dúvida entrem em contato pelo Discord**
 
+- **Aula 16:** Organização do Projeto Final - Gerencia de Projeto com GitHub
+    - [Gravação da Aula](https://drive.google.com/file/d/1hl6NFwdcYY59AZ7Jg1UzCKaIXe0kv0_L/view?usp=sharing)
+    - [Leitura Recomendada: O Guia Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-2.0.pdf)
+
 - **Aula 15:** Palavra chave Final, Generics e Introdução ao JavaFX
     - [Palavra-chave final](https://www.icloud.com/iclouddrive/0tG9ltaVlPcUbhMELbdW3VayA#Final_-_palavra-chave)
     - [Java Generics](https://www.icloud.com/iclouddrive/0ZZPuZcNQKnOmt1emUmBH92bQ#Java_Generics)
