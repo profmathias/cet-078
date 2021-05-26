@@ -39,7 +39,13 @@ $ git pull
     
     - Implemente um programa em Java que atenda aos requisitos postos pelo comerciante.
     - **OBS: Qualquer dúvida entrem em contato pelo Discord**
-
+- **Aula 17:** Apresentação e discussão Incial dos Projetos
+    - Houve apresentação de alguns projetos dos alunos.
+    - Debate sobre aspectos de OO nos projetos apresentados.
+    - **Exercício para a prox. aula:** Trazer o diagrama de classes contendo
+    relações de herança, agregação e composição. Utilizar o [PlantUML](https://plantuml.com/).
+        - Não esquecer de documentar e organizar o projeto no GitHub.
+        - Criar um Issue "Design Inicial do Projeto - Diagrama de Classes"
 - **Aula 16:** Organização do Projeto Final - Gerencia de Projeto com GitHub
     - [Gravação da Aula](https://drive.google.com/file/d/1hl6NFwdcYY59AZ7Jg1UzCKaIXe0kv0_L/view?usp=sharing)
     - [Leitura Recomendada: O Guia Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-2.0.pdf)
