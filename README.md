@@ -36,9 +36,12 @@ $ git pull
     *NOTIFICADOR* deve enviar um e-mail para o cliente, para o fornecedor e para
     o lojista. O comerciante enfatiza também que deseja ter um *CATALOGO DE FORNECEDORES*
     onde ele possa catalogar os fornecedores e que categoria de produtos ele fornece.
+        - Implemente um programa em Java que atenda aos requisitos postos pelo comerciante.
+        - **OBS: Qualquer dúvida entrem em contato pelo Discord**
     
-    - Implemente um programa em Java que atenda aos requisitos postos pelo comerciante.
-    - **OBS: Qualquer dúvida entrem em contato pelo Discord**
+  **Aula 18:** Padrão de Projeto MVC e sua aplicação no Projeto Final
+    - [Gravação da Aula](https://drive.google.com/file/d/16iNPickPXc8OyqUPvomEkMEnlJ34sbnk/view?usp=sharing)
+    - [Código Exemplo](https://github.com/profmathias/cet-078/tree/master/mvc)
 - **Aula 17:** Apresentação e discussão Incial dos Projetos
     - Houve apresentação de alguns projetos dos alunos.
     - Debate sobre aspectos de OO nos projetos apresentados.
