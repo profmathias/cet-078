@@ -39,6 +39,8 @@ $ git pull
         - Implemente um programa em Java que atenda aos requisitos postos pelo comerciante.
         - **OBS: Qualquer dúvida entrem em contato pelo Discord**
     
+  **Aula 19:** Atendimento para Dúvidas em OO e Orientações para o Projeto
+  
   **Aula 18:** Padrão de Projeto MVC e sua aplicação no Projeto Final
     - [Gravação da Aula](https://drive.google.com/file/d/16iNPickPXc8OyqUPvomEkMEnlJ34sbnk/view?usp=sharing)
     - [Código Exemplo](https://github.com/profmathias/cet-078/tree/master/mvc)
