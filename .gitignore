@@ -4,3 +4,4 @@ a.out
 cmake-build-debug/
 doc
 *.class
+target
