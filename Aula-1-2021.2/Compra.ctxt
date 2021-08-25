@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Compra
+comment1.params=clienteInformado
+comment1.target=void\ setCliente(Cliente)
+comment2.params=
+comment2.target=float\ calcularTotal()
+numComments=3

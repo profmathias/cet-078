@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=novaSenha
+comment1.target=void\ mudarSenha(java.lang.String)
+comment2.params=
+comment2.target=int\ getIdade()
+comment3.params=novaIdade
+comment3.target=void\ setIdade(int)
+numComments=4
