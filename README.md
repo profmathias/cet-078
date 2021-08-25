@@ -9,6 +9,8 @@ Navegue através da árvore de diretórios acima para encontrar códigos e arqui
     - [Gravação da Aula](https://drive.google.com/file/d/1qojEUejIh0SkzAUIBpFdqZBbqb5B5yv6/view?usp=sharing)
     - [Bate-Papo de texto da Aula](https://drive.google.com/file/d/1VRFBIRxFBT7r2BEuejpiK_I55J14Fvwi/view?usp=sharing)
     - [Download do BlueJ](https://www.bluej.org)
+    - **Exercício:** Instale o BlueJ e tente repertir os passos que vimos na sala de aula para reporduzir em sua máquian o 
+    programa que criamos. Brinque com ele e tente modificá-lo.
 
 ## IDEs, Ferramentas e Softwares
 
