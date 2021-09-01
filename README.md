@@ -3,6 +3,18 @@
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
 ## Aulas
+- **Aula 3: Prática: Uma implementação do Exercício da Aula 2**
+    - [Gravação da Aula](https://drive.google.com/file/d/1NT6uuB9KoNFqZH-bIbFW8J7MZmPgXlef/view?usp=sharing)
+    - [Códgio feito em Sala de Aula](https://github.com/profmathias/cet-078/tree/master/Aula03-Codigo)
+    - **Exercício: Para analisarmos soluções na Prox. Aula 6/09**
+        - Faça o download do código que fizemos em sala de aula, TENTE modificá-lo para incluir mais
+        atributos nas classes mais métodos (operações) e tente repetir criar objetos como fizemos em
+        sala e alimentar o estoque utilizando o método `darEntrada()` do funcionário. Nos iremos analisar
+        as soluções feitas por alguns de vocês na próxima aula. Para àqueles que já conhecem Java, 
+        evitem utilizar conhecimento que não vimos até agora, pois pode atrapalhar a compreensão dos demais
+        alunos. Esse não é um exercício individual e pode ser feito em duplas ou trios. Fiquem a vontade
+        para utilizar as salas do DISCORD para os encontros, pois eu vejo e posso dar um pulo lá para
+        auxiliar. 
 
 - **Aula 2: Introdução à Análise em OO: Diagrama de Classes**
     - [Slides](https://www.icloud.com/iclouddrive/0XOC0zx153RF7Tj9tN5dPQKDg)
