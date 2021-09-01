@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Estoque
+comment1.params=produto
+comment1.target=void\ adicionarProduto(Produto)
+comment2.params=prod
+comment2.target=void\ retiradaDeProduto(Produto)
+numComments=3
