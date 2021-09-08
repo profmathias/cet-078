@@ -3,6 +3,11 @@
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
 ## Aulas
+- **Aula 4:**
+    - [Slides](https://www.icloud.com/iclouddrive/0AEI5bZKNqpFkp3dMEutl7UPg#Parte_3_-_Implementando_e_Testando_uma_Classe)
+    - [Gravação da Aula - 2021.1](https://drive.google.com/file/d/1QhoO1tSDdbUqE9miZpvrVSw_JesMx-xz/view?usp=sharing) 
+    - **Exercício:** Implementação no BlueJ de Classes representando formas geométricas. [Código base e enunciado aqui.](https://github.com/profmathias/cet-078/tree/2021.1/Aula3-Primeira-Classe-OO)
+    
 - **Aula 3: Prática: Uma implementação do Exercício da Aula 2**
     - [Gravação da Aula](https://drive.google.com/file/d/1NT6uuB9KoNFqZH-bIbFW8J7MZmPgXlef/view?usp=sharing)
     - [Códgio feito em Sala de Aula](https://github.com/profmathias/cet-078/tree/master/Aula03-Codigo)
