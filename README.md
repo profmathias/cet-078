@@ -3,6 +3,12 @@
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
 ## Aulas
+- **Aula 5: Regras de Escopo e Construtores**
+    - [Slides](https://www.icloud.com/iclouddrive/0S2BD03noem5UjGYomw2xkiYA#Escopo_e_Construtores)
+    - [Gravação da Aula](https://drive.google.com/file/d/1czTqfBuvlyE9guRfw7BZhdih1uLhNzjx/view?usp=sharing)
+    - **Exercício:** Crie os construtores das classes de Formas do exercício anterior para que eles possam
+    ser criados já com valores especificados na criação do objeto.
+    
 - **Aula 4:**
     - [Slides](https://www.icloud.com/iclouddrive/0AEI5bZKNqpFkp3dMEutl7UPg#Parte_3_-_Implementando_e_Testando_uma_Classe)
     - [Gravação da Aula - 2021.1](https://drive.google.com/file/d/1QhoO1tSDdbUqE9miZpvrVSw_JesMx-xz/view?usp=sharing) 
