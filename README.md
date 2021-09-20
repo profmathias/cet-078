@@ -3,6 +3,17 @@
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
 ## Aulas
+- **Aula 7: Revisão de Relacionamentos em OO e Construtores**
+  - Slides: Use os slides da Aula 6 e 5.
+  - [Gravação da Aula](https://drive.google.com/file/d/16X0bYk2d8XRD4Jjf8uUZtbEwsXRfDgx3/view?usp=sharing)
+  - [Código visto em Sala de Aula](https://github.com/profmathias/cet-078/tree/master/Aula07-Codigo)
+  - Exercício:
+    1. Modifique o código visto em sala de aula (Exemplo da Loja) e prepare o Menu principal
+       do programa. Procure na Internet como se faz a leitura do teclado em Java (veremos em detalhes
+       na próxima aula. Planeje uma navegação para Compras, Controle de Estoque e Cadastro de Clientes.
+       Crie os submenus nas classes correspondentes aos objetos a serem manipulados, por exemplo o
+       submenu estoque deve estar dentro da classe estoque, para isto, crie um método `menu` em cada 
+       uma das classes.
 - **Aula 6: Relacionamento entre Classes e Herença**
     - [Slides](https://www.icloud.com/iclouddrive/0FyyHvu30defaPxrZUwfQlS9w)
     - [Vídeo-Aula (Gravação de 2021.1)](https://drive.google.com/file/d/1RixLU1g7k2vkiZG_D31lH03-OI377h8e/view)
