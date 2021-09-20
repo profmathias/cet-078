@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment1.params=n\ c\ d\ aut
+comment1.target=void\ definirFuncionario(java.lang.String,\ int,\ Departamento,\ boolean)
+comment2.params=e\ p
+comment2.target=void\ darEntrada(Estoque,\ Produto)
+comment3.params=e\ p
+comment3.target=void\ darSaida(Estoque,\ Produto)
+numComments=4
