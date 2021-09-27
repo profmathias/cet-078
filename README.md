@@ -3,7 +3,14 @@
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
 ## Aulas
-- **Aula 8: Aplicando os conceitos vistos até aqui na Prática.
+- **Aula 9: Sobrecarga e Sobrescrita de Métodos**
+  - [Gravação da Aula](https://drive.google.com/file/d/1VJfwPTuDJzvzQ0grczt84E1-kyaKVet7/view?usp=sharing)
+  - [Slides]()
+  - [Código da Aula](https://github.com/profmathias/cet-078/tree/master/Aula09-Codigo)
+  - **Exercício:** Revise o código em casa, certifique-se de que entendeu todos os conceitos. Crie
+    algumas modificações nas classes Monstro, Heroi e Personagem e verifique os efeitos dessa mudança
+    sob a perspectiva de herança.
+- **Aula 8: Aplicando os conceitos vistos até aqui na Prática.**
   - [Gravação da Aula](https://drive.google.com/file/d/1H9EyUwOrPuCBDmF-u_rcvMzM3sLhE9xI/view)
   - [Código Visto na Aula](https://github.com/profmathias/cet-078/tree/master/Aula08-Codigo)
   - **Exercício:** Como descrito em sala de aula, modifque o código desenvolvido na aula para
