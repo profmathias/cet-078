@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Departamento
+comment1.params=n
+comment1.target=void\ setNome(java.lang.String)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Estoque
+comment1.params=
+comment1.target=void\ menu()
+comment2.params=
+comment2.target=void\ entrada()
+comment3.params=
+comment3.target=void\ saida()
+comment4.params=
+comment4.target=void\ relatorio()
+numComments=5
