@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Heroi
+comment1.params=nome\ forca\ defesa\ vida\ jogador
+comment1.target=Heroi(java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=fase
+comment3.target=void\ setFase(int)
+comment4.params=jogador
+comment4.target=void\ setJogador(java.lang.String)
+comment5.params=
+comment5.target=int\ getFase()
+comment6.params=
+comment6.target=java.lang.String\ getJogador()
+numComments=7

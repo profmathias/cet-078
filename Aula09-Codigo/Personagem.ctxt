@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Personagem
+comment1.params=nome\ forca\ defesa\ vida
+comment1.target=Personagem(java.lang.String,\ int,\ int,\ int)
+comment10.params=
+comment10.target=int\ getVida()
+comment11.params=
+comment11.target=int\ getForca()
+comment12.params=
+comment12.target=int\ getDefesa()
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=p
+comment3.target=void\ atacar(Personagem)
+comment4.params=personagens
+comment4.target=void\ atacar(Personagem[])
+comment5.params=vida
+comment5.target=void\ setVida(int)
+comment6.params=forca
+comment6.target=void\ setForca(int)
+comment7.params=defesa
+comment7.target=void\ setDefesa(int)
+comment8.params=nome
+comment8.target=void\ setNome(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getNome()
+numComments=13

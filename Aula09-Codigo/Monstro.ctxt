@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Monstro
+comment1.params=nome\ forca\ defesa\ vida\ pontuacao
+comment1.target=Monstro(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ imprimir()
+comment3.params=pontuacao
+comment3.target=void\ setPontuacao(int)
+comment4.params=
+comment4.target=int\ getPontuacao()
+numComments=5
