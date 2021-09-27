@@ -3,6 +3,12 @@
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
 ## Aulas
+- **Aula 8: Aplicando os conceitos vistos até aqui na Prática.
+  - [Gravação da Aula](https://drive.google.com/file/d/1H9EyUwOrPuCBDmF-u_rcvMzM3sLhE9xI/view)
+  - [Código Visto na Aula](https://github.com/profmathias/cet-078/tree/master/Aula08-Codigo)
+  - **Exercício:** Como descrito em sala de aula, modifque o código desenvolvido na aula para
+    que possamos navegar pelas funcionalidades do sistema, em especial o gerenciamento de funcionário
+    criando uma classe `RH` (Recursos Humanos). 
 - **Aula 7: Revisão de Relacionamentos em OO e Construtores**
   - Slides: Use os slides da Aula 6 e 5.
   - [Gravação da Aula](https://drive.google.com/file/d/16X0bYk2d8XRD4Jjf8uUZtbEwsXRfDgx3/view?usp=sharing)
