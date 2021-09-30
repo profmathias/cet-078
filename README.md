@@ -3,6 +3,23 @@
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
 ## Aulas
+- **Aula 10: Prática (Discord)** - A Grande Biblioteca
+  - **A Grande Livraria de Alexandria**
+    - Gerenciar os livros da Grande Livraria sempre foi uma tarefa érculea. O principal 
+    objeto de uma livraria obviamente é gerenciar livros, porém pessoas também podem 
+    tomar livros emprestados. Os servidores da Grande Biblioteca estão exaustos com o 
+    grande volume de livros para gerenciar e agora com o grande volume de empréstimos. 
+    Eles mantém uma lista de Livros Emprestados para controlar os livros que estão fora 
+    da biblioteca, bem como quem está em atraso com a devolução. Cada linha dessa lista 
+    é um Empréstimo, o empréstimo consiste em armazenar o dia em que o empréstimo foi 
+    \feito, os livros emprestados, a data da devolução e quem tomou emprestado. O outro 
+    aspecto é que para fazer um relatório de livros emprestados, leitores em atraso com 
+    a entrega, todo isso demanda um tempo considerável, os trabalhadores da biblioteca 
+    gostariam de poder fazer isso através de um relatório feito pelo computador. Outro 
+    aspecto importante é o Acervo de livros, que mantém a lista de todos os livros da 
+    biblioteca bem como detalhes sobre ele, como título, autor, número de páginas, 
+    quantidade de cópias, etc. Implemente no BlueJ um sistema para auxiliar os funcionários 
+    da Grande Biblioteca de Alexandria.
 - **Aula 9: Sobrecarga e Sobrescrita de Métodos**
   - [Gravação da Aula](https://drive.google.com/file/d/1VJfwPTuDJzvzQ0grczt84E1-kyaKVet7/view?usp=sharing)
   - [Slides]()
