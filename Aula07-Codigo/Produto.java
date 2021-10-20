@@ -5,10 +5,14 @@ public class Produto
     private float preco;
     private Categoria categoria;
     
-    public void definirProduto(int co, String n, float p, Categoria ca) {
-        codigo = co;
-        nome = n;
-        preco = p;
-        categoria = ca;
+    public void definirProduto(int codigo, String nome, float preco, Categoria cat) {
+        this.codigo = codigo;
+        this.nome = nome;
+        this.preco = preco;
+        this.categoria = cat;
+    }
+    
+    public String getNome() {
+        return this.nome;
     }
 }
