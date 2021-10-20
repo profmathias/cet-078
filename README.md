@@ -3,6 +3,22 @@
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
 ## Aulas
+- **Aula 15: Padrões de Projeto OO: Abstract Factory (Fábrica Abstrata)**
+  - [Gravação da Aula](https://drive.google.com/file/d/1DstQtrF0JeB_unvwPg_xOCLdm3bXOTGy/view?usp=sharing)
+  - [Código](https://github.com/profmathias/cet-078/tree/master/Padroes/src/org/lp3/fabrica_abstrata)
+  - **Exercício:** Com base no código visto em sala de aula, disponível no nosso repositório,
+    crie uma nova fábrica concreta para e acrescente uma nova opção de GUI, chamaremos essa nova
+    opção de *"Nativa"*, para que possa ser escolhida além das já existentes JFX e Swing.
+- **Aula 14: Padrões de Projeto OO: MVC**
+  - [Gravação da Aula](https://drive.google.com/file/d/1i3JSDLEF5UZEcC0bqtLW8uQqrOCZ9AAH/view?usp=sharing)
+  - [Código](https://github.com/profmathias/cet-078/tree/master/Padroes/src/org/lp3/mvc)
+  - **Exercício:** Tente aplicar o padrão MVC no seu programa de gerenciamento de Biblioteca.
+- **Aula 13: Java Generics e Bibliotecas Básicas do Java**
+  - [Gravação da AUla](https://drive.google.com/file/d/1BUnu-2s1Bh5Xa7DyfPJ17Qea81IgCD9B/view?usp=sharing)
+  - [Slides - Java Generics](https://www.icloud.com/iclouddrive/0ZZPuZcNQKnOmt1emUmBH92bQ#Java_Generics)
+  - [Slides - Biblioteca Aruivos](https://www.icloud.com/iclouddrive/0KErg-WXZ_R53ZPDAextr9egQ)
+  - [Slides - Bibliotecas Collections](https://www.icloud.com/iclouddrive/0V16f3iBS1SH-EmxJnAhbwd-g)
+- **Aula 12: Prática de Polimorfismo.**
 - **Aula 11: Intefaces, Classes Abstratas e Polimorfismo**
   - [Slides](https://www.icloud.com/iclouddrive/0_ovKzPRC7i4dHswv7U-kJtRQ#Aula-11-Interfaces%5FClasses%5Fabstratas%5Fe%5FPolimorfismo)
   - [Gravação da Aula](https://drive.google.com/file/d/1UpP_D8ik2Bmy5iBZJSObrFVSFMkOcPnY/view?usp=sharing)
