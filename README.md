@@ -4,7 +4,7 @@ Navegue através da árvore de diretórios acima para encontrar códigos e arqui
 
 ## Aulas
 
-- **Aula 16: Padrões de Projeto OO: Observer
+- **Aula 16: Padrões de Projeto OO: Observer**
   - [Gravação da Aula](https://drive.google.com/file/d/1MCLsNURmyWgbXExFmVSkCKZqJLhfp4lN/view?usp=sharing)
   - [Slides - Padrões de Projeto e Abstract Factory](https://www.icloud.com/iclouddrive/0ltPIX-WNay25joNjBl-W9sIw)
   - [Código](https://github.com/profmathias/cet-078/tree/master/Padroes/src/org/lp3/observer)
