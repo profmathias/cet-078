@@ -3,6 +3,11 @@
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
 ## Aulas
+
+- **Aula 16: Padrões de Projeto OO: Observer
+  - [Gravação da Aula](https://drive.google.com/file/d/1MCLsNURmyWgbXExFmVSkCKZqJLhfp4lN/view?usp=sharing)
+  - [Slides - Padrões de Projeto e Abstract Factory](https://www.icloud.com/iclouddrive/0ltPIX-WNay25joNjBl-W9sIw)
+  - [Código](https://github.com/profmathias/cet-078/tree/master/Padroes/src/org/lp3/observer)
 - **Aula 15: Padrões de Projeto OO: Abstract Factory (Fábrica Abstrata)**
   - [Gravação da Aula](https://drive.google.com/file/d/1DstQtrF0JeB_unvwPg_xOCLdm3bXOTGy/view?usp=sharing)
   - [Código](https://github.com/profmathias/cet-078/tree/master/Padroes/src/org/lp3/fabrica_abstrata)
