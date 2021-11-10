@@ -3,7 +3,7 @@
 Duas interfaces são definidas em um sistema para que ele possa enviar dados, estas interfaces
 são as seguintes:
 
-<div hidden>
+<!---
 
 ```plantuml
 @startuml BaseTypes
@@ -19,7 +19,8 @@ interface Pacote {
 }
 @enduml
 ```
-</div>
+
+--->
 
 ![](BaseTypes.svg)
 
@@ -35,7 +36,7 @@ de envio, só quer enviar os dados.).
 Utilize o padrão Abstract Factory para criar uma fábrica concreta para objetos
 de um tipo de protocolo escolhido, por exemplo, se for HTTP, SendHTTP, PacoteHTTP.
 
-<div hidden>
+<!---
 
 ```plantuml
 
@@ -109,7 +110,7 @@ FabricaDeRemetentesHTTP ..> RemetenteHTTP
 @enduml
 ```
 
-</div>
+--->
 
 ![](AbstractFactory.svg)
 
@@ -120,7 +121,7 @@ CriptografarPacoteCOAPDecorator. Adapte a fábrica para criar decoradores para o
 objetos concretos (ex. PacoteHTTP, RemetenteHTTP, PacoteCOAP, RemententeCOAP).
 
 
-<div hidden>
+<!---
 
 ```plantuml 
 @startuml Decorators
@@ -179,7 +180,7 @@ DecoradorDeAutenticaçãoCriptografiaToken ---^ DecoradorDeRemetente
 @enduml
 ```
 
-</div>
+--->
 
 ![](Decorators.svg)
 
