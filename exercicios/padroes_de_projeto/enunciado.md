@@ -20,7 +20,8 @@ interface Pacote {
 @enduml
 ```
 </div>
-!()[BaseTypes.svg]
+
+![](BaseTypes.svg)
 
 A primeira diz respeito ao objeto que envia os dados (`Remetente`), a segunda diz respeito aos dados a serem enviados
 na forma de um `Pacote`.
@@ -110,7 +111,7 @@ FabricaDeRemetentesHTTP ..> RemetenteHTTP
 
 </div>
 
-!()[AbstractFactory.svg]
+![](AbstractFactory.svg)
 
 Com base nesses tipos crie os decoradores CriptografarPacoteDecorator e 
 AutenticarRemetenteDecorator. E os decoradores concretos AutenticarRemetenteHTTPDecorator,
@@ -177,8 +178,10 @@ DecoradorDeAutenticaçãoCriptografiaToken ---^ DecoradorDeRemetente
 
 @enduml
 ```
+
 </div>
-!()[Decorators.svg]
+
+![](Decorators.svg)
 
 Então devemos ter ao final:
 
