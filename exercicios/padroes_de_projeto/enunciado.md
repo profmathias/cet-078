@@ -157,15 +157,15 @@ class DecoradorDePacoteCriptografiaDES {
     +criptografar(): void
 }
 
-class DecoradorDeAutenticaçãoCriptografiaSenha {
+class DecoradorDeAutenticaçãoSenha {
     -remetente: Remetente
     +DecoradorDeAutenticaçãoCriptografiaSenha(remente: Remetente)
     +autenticar(): void
 }
 
-class DecoradorDeAutenticaçãoCriptografiaToken {
+class DecoradorDeAutenticaçãoToken {
     -remetente: Remetente
-    +DecoradorDeAutenticaçãoCriptografiaToken(remente: Remetente)
+    +DecoradorDeAutenticaçãoToken(remente: Remetente)
     +autenticar(): void
 }
 
@@ -174,8 +174,8 @@ DecoradorDePacote ---^ Pacote
 DecoradorDeRemetente ---^ Remetente
 DecoradorDePacoteCriptografiaRSA ---^ DecoradorDePacote
 DecoradorDePacoteCriptografiaDES ---^ DecoradorDePacote
-DecoradorDeAutenticaçãoCriptografiaSenha ---^ DecoradorDeRemetente
-DecoradorDeAutenticaçãoCriptografiaToken ---^ DecoradorDeRemetente
+DecoradorDeAutenticaçãoSenha ---^ DecoradorDeRemetente
+DecoradorDeAutenticaçãoToken ---^ DecoradorDeRemetente
 
 @enduml
 ```
@@ -191,11 +191,11 @@ Então devemos ter ao final:
 - Decoradores para autenticar ou criptografar HTTP ou COAP.
 
 Cada método deve apenas imprimir na tela a sua atividade, por exemplo:
-1. "Criptografando simples"
-2. "Autenticando complexo"
+1. "Criptografando RSA"
+2. "Autenticando Token"
 3. "Enviando com HTTP"
 
 O programa deve perguntar ao usuário qual protocolo utilizar, depois
-se quer utilizar criptografia simples, complexa ou nenhuma, depois autenticação
-simples, complexa ou nenhuma. Depois ele irá "enviar"(imitar um envio apenas 
+se quer utilizar criptografia RSA, DES ou nenhuma, depois autenticação
+Senha, Token ou nenhuma. Depois ele irá "enviar"(imitar um envio apenas 
 fazendo prints na tela) um pacote.
