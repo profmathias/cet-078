@@ -2,8 +2,80 @@
 
 Navegue através da árvore de diretórios acima para encontrar códigos e arquivos da disciplina.
 
-## Aulas
 
+## Projetos Finais
+
+Como avaliação final as duplas deverão entregar um software que atenda aos requisitos
+definidos na descrição dada por um cliente. O cliente ao longo do processo pode solicitar
+a remoção ou adição de funcionalidade, semanalmente o cliente vai analisar a evolução do
+programa. Procurem desenvolver de forma incremental, definindo o que é mais importante
+e entregando primeiro. Os temas que pode ser escolhidos são:
+
+- Hospital (Gerenciamento de Leitos)
+- Gerenciamento de Frota de Veículos
+- Gerenciamento de Imobiliária
+- Sistema de Controle de Vazão em Barragens
+- Gerenciamento de Entrega de Pacotes e Correspondências
+- Gerenciamento Escolar (Turmas, Aulas e Avaliações)
+- Locação de Bicicletas e Motos Elétricos.
+- Gerenciamento de Dietas (Nutrição)
+
+## Duplas e Temas
+
+| Alunos      | Temas                                   |
+|-------------|-----------------------------------------|
+|             |                                         |
+|             |                                         |
+|             |                                         |
+|             |                                         |
+|             |                                         |
+|             |                                         |
+|             |                                         |
+|             |                                         |
+
+## Seminários
+
+Cada dupla deverá preparar um seminário sobre dois padrões de projeto a sua escolha,
+apresentação de código eleva a nota. Os padrões que poderão escolher estão 
+listados abaixo. Marquei com um asterisco alguns padrões populares.
+
+#### Padrões de Projeto Disponíveis para Escolha
+  - Criacionais
+    1. Builder
+    2. Prototype
+  - Estruturais
+    1. Adapter*
+    2. Bridge
+    3. Composite
+    4. Facade*
+    5. Flyweight
+    6. Proxy*
+  - Comportamentais
+    1. Chain of Responsibility*
+    2. Command
+    3. Iterator*
+    4. Mediator*
+    5. Memento
+    6. State
+    7. Strategy
+    8. Visitor
+
+#### Datas dos Seminários, duplas e temas
+
+| Alunos      | Padrões                                 | Data   |
+|-------------|-----------------------------------------|--------|
+|             |                                         | 24/Nov |
+|             |                                         | 24/Nov |
+|             |                                         | 24/Nov |
+|             |                                         | 29/Nov |
+|             |                                         | 29/Nov |
+|             |                                         | 01/Dez |
+|             |                                         | 01/Dez |
+|             |                                         | 01/Dez |
+
+## Aulas
+- **Aula 18: Prática: Aplicação do padrão Decorator**
+- **Aula 17: Prática: Aplicação do Padrão Abstract Factory**
 - **Aula 16: Padrões de Projeto OO: Observer**
   - [Gravação da Aula](https://drive.google.com/file/d/1MCLsNURmyWgbXExFmVSkCKZqJLhfp4lN/view?usp=sharing)
   - [Slides - Padrões de Projeto e Abstract Factory](https://www.icloud.com/iclouddrive/0ltPIX-WNay25joNjBl-W9sIw)
