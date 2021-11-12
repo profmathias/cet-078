@@ -22,16 +22,16 @@ e entregando primeiro. Os temas que pode ser escolhidos são:
 
 ## Duplas e Temas
 
-| Alunos      | Temas                                   |
-|-------------|-----------------------------------------|
-|             |                                         |
-|             |                                         |
-|             |                                         |
-|             |                                         |
-|             |                                         |
-|             |                                         |
-|             |                                         |
-|             |                                         |
+| Alunos                                  | Temas                                   |
+|------------------------------------------|------------------------------------------|
+| Ana Cristina e Larissa Mendes            | Gerenciamento de Frota de Veículos                                        |
+| Christian Menezes e João Carlos          | Locação de Bicicletas e Motos Elétricas                                         |
+| Thompson e Alanis                        | Gerenciamento de Dietas (Nutrição)                                       |
+| Matheus e Benjamim                       | Hospital (Gerenciamento de Leitos)                                        |
+| Igor e João Victor                       | Sistema de Controle de Vazão                                        |
+| Fernanda e Thiago                        | Gerenciamento de Entrega de Pacotes e Correspondências                                        |
+| Cleber e Vinicius                        | Gerenciamento Imobiliario                                        |
+| Ricardo Luiz e Victor Silva              | Gerenciamento de Frota de Veículos                                        |
 
 ## Seminários
 
@@ -64,14 +64,14 @@ listados abaixo. Marquei com um asterisco alguns padrões populares.
 
 | Alunos      | Padrões                                 | Data   |
 |-------------|-----------------------------------------|--------|
-|             |                                         | 24/Nov |
-|             |                                         | 24/Nov |
-|             |                                         | 24/Nov |
-|             |                                         | 29/Nov |
-|             |                                         | 29/Nov |
-|             |                                         | 01/Dez |
-|             |                                         | 01/Dez |
-|             |                                         | 01/Dez |
+| Ana Cristina e Larissa Mendes*            |  Proxy e Chain of Responsibility                                      | 24/Nov |
+| Christian Menezes e João Carlos*          |  Builder e Prototype                                       | 24/Nov |
+| Thompson e Alanis*                        |  Prototype e Proxy                                       | 24/Nov |
+| Matheus e Benjamim                       |  Builder e Visitor                                       | 29/Nov |
+| Igor e João Victor*                       |  Prototype e State                                       | 29/Nov |
+| Fernanda e Thiago*                        |  Proxy e Strategy                                       | 29/Dez |
+| Cleber e Vinicius                        |  Adapter e Facade                                       | 01/Dez |
+| Ricardo Luiz e Victor Silva              |  Bridge e Iterator                                       | 01/Dez |
 
 ## Aulas
 - **Aula 18: Prática: Aplicação do padrão Decorator**
