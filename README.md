@@ -44,34 +44,43 @@ listados abaixo. Marquei com um asterisco alguns padrões populares.
     1. Builder
     2. Prototype
   - Estruturais
-    1. Adapter*
-    2. Bridge
-    3. Composite
-    4. Facade*
-    5. Flyweight
-    6. Proxy*
+    3. Adapter*
+    4. Bridge
+    5. Composite
+    6. Facade*
+    7. Flyweight
+    8. Proxy*
   - Comportamentais
-    1. Chain of Responsibility*
-    2. Command
-    3. Iterator*
-    4. Mediator*
-    5. Memento
-    6. State
-    7. Strategy
-    8. Visitor
+    9. Chain of Responsibility*
+    10. Command
+    11. Iterator*
+    12. Mediator*
+    13. Memento
+    14. State
+    15. Strategy
+    16. Visitor
 
 #### Datas dos Seminários, duplas e temas
 
 | Alunos      | Padrões                                 | Data   |
 |-------------|-----------------------------------------|--------|
-| Ana Cristina e Larissa Mendes*            |  Proxy e Chain of Responsibility                                      | 24/Nov |
-| Christian Menezes e João Carlos*          |  Builder e Prototype                                       | 24/Nov |
-| Thompson e Alanis*                        |  Prototype e Proxy                                       | 24/Nov |
-| Matheus e Benjamim                       |  Builder e Visitor                                       | 29/Nov |
-| Igor e João Victor*                       |  Prototype e State                                       | 29/Nov |
-| Fernanda e Thiago*                        |  Proxy e Strategy                                       | 29/Dez |
-| Cleber e Vinicius                        |  Adapter e Facade                                       | 01/Dez |
-| Ricardo Luiz e Victor Silva              |  Bridge e Iterator                                       | 01/Dez |
+| Ana Cristina e Larissa Mendes*            |  Strategy e Prototype                                      | 24/Nov |
+| Igor e João Victor*                       |  Proxy e Iterator                                       | 24/Nov |
+| Matheus e Benjamim                       |  Mediator e Visitor                                       | 24/Nov |
+| Thompson e Alanis*                        |  Bridge e Flyweight                                      | 29/Nov |
+| Fernanda e Thiago*                        |  Builder e Composite                                       | 29/Dez |
+| Cleber e Vinicius                        |   Adapter e Command                                       | 29/Dez |
+| Christian Menezes e João Carlos*          |  Mediator e State                                       | 01/Dez |
+| Ricardo Luiz e Victor Silva              |  Chain of Responsabillity e Facade                                       | 01/Dez |
+
+**Ana Cristina e Larissa Mendes**  (15-Strategy e 2-Prototype)
+**Cristian Menezes e  João Carlos** (12 - Mediator e 14 - State)
+**Thompson e Alanis** (4 - Bridge e 7 - Flyweight)
+**Matheus e Benjamin** (12 - Mediator e 16 - Visitor)
+**Igor e João Vitor** (8 - Proxy e 11 - Iterator)
+**Fernanda e Thiago** (1 - Builder e 5 - Composite)
+**Cleber e Vinícius** (3 Adapter e  10 - Command)
+**Ricardo Luiz e Victor Silva** (9 - Chain of Responsabillity e 6 - Facade)
 
 ## Aulas
 - **Aula 18: Prática: Aplicação do padrão Decorator**
