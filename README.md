@@ -31,7 +31,8 @@ e entregando primeiro. Os temas que pode ser escolhidos são:
 | Igor e João Victor                       | Sistema de Controle de Vazão                                        |
 | Fernanda e Thiago                        | Gerenciamento de Entrega de Pacotes e Correspondências                                        |
 | Cleber e Vinicius                        | Gerenciamento Imobiliario                                        |
-| Ricardo Luiz e Victor Silva              | Gerenciamento de Frota de Veículos                                        |
+| Ricardo Luiz e Victor Silva              | Gerenciamento de Frota de Veículos 
+| Samuel e Guilherme                       | Gerenciamento Escolar (Turmas, Aulas e Avaliações) |
 
 ## Seminários
 
@@ -44,15 +45,15 @@ listados abaixo. Marquei com um asterisco alguns padrões populares.
     - Builder
     - Prototype
   - Estruturais
-    - Adapter*
+    - Adapter* 
     - Bridge
     - Composite
     - Facade*
-    - Flyweight
+    - Flyweight  
     - Proxy*
   - Comportamentais
-    - Chain of Responsibility*
-    - Command
+    - Chain of Responsibility* 
+    - Command 
     - Iterator*
     - Mediator*
     - Memento
@@ -69,9 +70,10 @@ listados abaixo. Marquei com um asterisco alguns padrões populares.
 | Matheus e Benjamim                       |  Mediator e Visitor                                       | 24/Nov |
 | Thompson e Alanis                        |  Bridge e Flyweight                                      | 29/Nov |
 | Fernanda e Thiago                        |  Builder e Composite                                       | 29/Dez |
-| Cleber e Vinicius                        |   Adapter e Command                                       | 29/Dez |
-| Christian Menezes e João Carlos          |  Mediator e State                                       | 01/Dez |
+| Cleber e Vinicius                        |  Adapter e Command                                       | 29/Dez |
+| Christian Menezes e João Carlos          |  Memento e State                                       | 01/Dez |
 | Ricardo Luiz e Victor Silva              |  Chain of Responsabillity e Facade                                       | 01/Dez |
+| Samuel e Guilherme                       |  Strategy e Proxy
 
 ## Aulas
 - **Aula 18: Prática: Aplicação do padrão Decorator**
