@@ -121,10 +121,9 @@ CriptografarPacoteCOAPDecorator. Adapte a fábrica para criar decoradores para o
 objetos concretos (ex. PacoteHTTP, RemetenteHTTP, PacoteCOAP, RemententeCOAP).
 
 
-<!---
-
 ```plantuml 
 @startuml Decorators
+!theme resume-light
 interface Remetente {
     +connect(String: enderecoDeDestino): void
     +autenticar(): void
@@ -179,8 +178,6 @@ DecoradorDeAutenticaçãoToken ---^ DecoradorDeRemetente
 
 @enduml
 ```
-
---->
 
 ![](Decorators.svg)
 

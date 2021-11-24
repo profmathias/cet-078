@@ -76,8 +76,20 @@ listados abaixo. Marquei com um asterisco alguns padrões populares.
 | Samuel e Guilherme                       |  Strategy e Proxy
 
 ## Aulas
-- **Aula 18: Prática: Aplicação do padrão Decorator**
-- **Aula 17: Prática: Aplicação do Padrão Abstract Factory**
+
+- **Aula 24: Seminários**
+- **Aula 23: Seminários**
+- **Aula 22: Seminários**
+- **Aula 21: Seminários**
+- **Aula 20: Detalhamento e Instruções dos temas do projeto**
+  - [Gravação da Aula](https://drive.google.com/file/d/1MzDcqmcefKIpclpJLZPCBAqb9AZK8esQ/view?usp=sharing)
+- **Aula 19: Prática: Aplicação do padrão Decorator**
+  - Exercício: Expansão do sistema multiprotocolo para suporte sob demanda de autenticação e 
+    criptografia com decorator.
+- **Aula 18: Prática: Aplicação do Padrão Abstract Factory**
+  - Exercício: Design de um sistema de comunicação multiprotocolo.
+- **Aula 17: Prática: Aplicação do padrão Singleton e Decorator**
+  - [Gravação da Aula](https://drive.google.com/file/d/1EduOWK8ZM-GKt5Wgs5gwnBnG83YZqVXb/view?usp=sharing)
 - **Aula 16: Padrões de Projeto OO: Observer**
   - [Gravação da Aula](https://drive.google.com/file/d/1MCLsNURmyWgbXExFmVSkCKZqJLhfp4lN/view?usp=sharing)
   - [Slides - Padrões de Projeto e Abstract Factory](https://www.icloud.com/iclouddrive/0ltPIX-WNay25joNjBl-W9sIw)
